@@ -1,4 +1,4 @@
-# HostName 설정 즉시반영
+# HostName 설정 (hostnamectl)
 
 ### 개요
 분산클러스터를 만들다보면 hostname을 변경할 일이 종종 생기곤 하는데, 지금까지는 /etc/hostname에서 직접 파일을 수정했었다.
