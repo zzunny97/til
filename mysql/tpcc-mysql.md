@@ -55,4 +55,4 @@ $ ./tpcc_start -h 127.0.0.1 -S /tmp/mysql.sock -d tpcc -u root -p "yourPassword"
 
 
 ### 실행결과
-![tpcc-result](image/tpcc-result.png)
+![tpcc-result](image/tpcc-result.png)
