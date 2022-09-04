@@ -19,5 +19,5 @@ dicl5
 ```
 
 ### Done
-직접 실행한 캡처는 다음과 같다.
+직접 실행한 캡처는 다음과 같다. 한가지 아쉬운 점은 쉘에서 계정 옆에 hostname은 곧바로 반영이 안되는 듯.
 ![hostnamectl-handson](image/hostnamectl.png)
